@@ -13,4 +13,4 @@ implementation reported in my upcoming paper
 
 3. [notebooks/](https://github.com/BrianSanderson/phylo-seq-cap/blob/master/notebooks/): Notebooks that detail the analyses reported in the manuscript in Jupyter Notebook format
 
-The raw read data obtained through targeted sequence capture will be available at the [NCBI short read archive](https://www.ncbi.nlm.nih.gov/sra/PRJNA614933) after the manuscript has been accepted for publication.
+The raw read data obtained through targeted sequence capture will be available at the [NCBI short read archive](https://www.ncbi.nlm.nih.gov/sra/PRJNA627181) after the manuscript has been accepted for publication.
