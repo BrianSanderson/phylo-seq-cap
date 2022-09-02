@@ -3,7 +3,7 @@
 This repository contains the scripts and analysis notebooks used for the
 creation of a novel genotyping platform that I designed, and its
 implementation reported in my paper
-**Targeted sequence capture array for phylogenetics and population genomics in the Salicaceae**, published in the journal [Applications in Plant Sciences][(https://doi.org/10.1002/aps3.11394) in 2020.
+**Targeted sequence capture array for phylogenetics and population genomics in the Salicaceae**, published in the journal [Applications in Plant Sciences](https://doi.org/10.1002/aps3.11394) in 2020.
 
 ### Contents
 
